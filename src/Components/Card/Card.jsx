@@ -2,9 +2,9 @@ import React from "react";
 
 export default function Card() {
   return (
-    <div className="card mt-4 ms-5">
+    <div className="card">
       <div className="card-body">
-        <img src="https://via.placeholder.com/200x250" alt="placeholder" />
+        <img src="https://via.placeholder.com/242x250" alt="placeholder" />
         <div className="d-flex mt-4">
           <img
             src="https://via.placeholder.com/50"

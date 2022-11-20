@@ -5,7 +5,7 @@ import Card from './Components/Card/Card'
 function App() {
   return (
     <div className="App">
-      <div className="" style={{ width: '450px'}}>
+      <div className="" style={{ width: '279px'}}>
       <Card/>
       </div>
     </div>
